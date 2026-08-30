@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "n_videos": 24,
+    "mean_T": 299.5416666666667,
+    "ears_s_per_video": 7.634251902675412,
+    "ears_audio_s": 0.2930732215948713,
+    "ears_motion_s": 7.34117868108054,
+    "aks_siglip_s_per_video": 6.894646077921304,
+    "speedup_aks_over_ears": 0.9031200654389051
+  },
+  "per_video": [
+    {
+      "video": "Test_169_Normal.mp4",
+      "T": 401,
+      "ears_s": 14.43151453929022,
+      "ears_audio_s": 1.1150413700379431,
+      "ears_motion_s": 13.316473169252276,
+      "aks_siglip_s": 13.472216580994427
+    },
+    {
+      "video": "Test_23_Shooting.mp4",
+      "T": 246,
+      "ears_s": 4.759180701337755,
+      "ears_audio_s": 0.18705361802130938,
+      "ears_motion_s": 4.572127083316445,
+      "aks_siglip_s": 3.595157641917467
+    },
+    {
+      "video": "Test_191_Normal.mp4",
+      "T": 328,
+      "ears_s": 13.340707181021571,
+      "ears_audio_s": 0.12264921190217137,
+      "ears_motion_s": 13.2180579691194,
+      "aks_siglip_s": 10.361939151305705
+    },
+    {
+      "video": "Test_33_Fighting.mp4",
+      "T": 289,
+      "ears_s": 7.431757982354611,
+      "ears_audio_s": 0.202408651355654,
+      "ears_motion_s": 7.229349330998957,
+      "aks_siglip_s": 6.5086519052274525
+    },
+    {
+      "video": "Test_28_Fighting.mp4",
+      "T": 401,
+      "ears_s": 9.255848329979926,
+      "ears_audio_s": 0.4538536979816854,
+      "ears_motion_s": 8.801994631998241,
+      "aks_siglip_s": 7.877855001948774
+    },
+    {
+      "video": "Test_124_Normal.mp4",
+      "T": 241,
+      "ears_s": 6.418641672935337,
+      "ears_audio_s": 0.1728832651861012,
+      "ears_motion_s": 6.245758407749236,
+      "aks_siglip_s": 5.299416565801948
+    },
+    {
+      "video": "Test_32_Fighting.mp4",
+      "T": 256,
+      "ears_s": 6.003848025109619,
+      "ears_audio_s": 0.20677488716319203,
+      "ears_motion_s": 5.797073137946427,
+      "aks_siglip_s": 5.6209479151293635
+    },
+    {
+      "video": "Test_56_Shooting.mp4",
+      "T": 78,
+      "ears_s": 2.048850287683308,
+      "ears_audio_s": 0.08585279574617743,
+      "ears_motion_s": 1.9629974919371307,
+      "aks_siglip_s": 1.5426074741408229
+    },
+    {
+      "video": "Test_96_Fighting.mp4",
+      "T": 401,
+      "ears_s": 17.288090342190117,
+      "ears_audio_s": 0.33928747242316604,
+      "ears_motion_s": 16.94880286976695,
+      "aks_siglip_s": 14.582953222095966
+    },
+    {
+      "video": "Test_86_Normal.mp4",
+      "T": 401,
+      "ears_s": 9.29452173691243,
+      "ears_audio_s": 0.6103226239793003,
+      "ears_motion_s": 8.684199112933129,
+      "aks_siglip_s": 8.250622644089162
+    },
+    {
+      "video": "Test_67_Fighting.mp4",
+      "T": 83,
+      "ears_s": 1.6653337310999632,
+      "ears_audio_s": 0.09696403797715902,
+      "ears_motion_s": 1.5683696931228042,
+      "aks_siglip_s": 1.415420341771096
+    },
+    {
+      "video": "Test_144_Normal.mp4",
+      "T": 401,
+      "ears_s": 13.914257692173123,
+      "ears_audio_s": 0.4164023492485285,
+      "ears_motion_s": 13.497855342924595,
+      "aks_siglip_s": 10.570601357147098
+    },
+    {
+      "video": "Stealing019_x264.mp4",
+      "T": 401,
+      "ears_s": 7.269506669137627,
+      "ears_audio_s": 0.33994421223178506,
+      "ears_motion_s": 6.929562456905842,
+      "aks_siglip_s": 6.984707660973072
+    },
+    {
+      "video": "Normal_Videos_886_x264.mp4",
+      "T": 401,
+      "ears_s": 8.73278557881713,
+      "ears_audio_s": 0.1743576400913298,
+      "ears_motion_s": 8.5584279387258,
+      "aks_siglip_s": 8.47713538678363
+    },
+    {
+      "video": "Explosion025_x264.mp4",
+      "T": 102,
+      "ears_s": 2.0722901336848736,
+      "ears_audio_s": 0.06466259295120835,
+      "ears_motion_s": 2.0076275407336652,
+      "aks_siglip_s": 2.0304408161900938
+    },
+    {
+      "video": "Normal_Videos_014_x264.mp4",
+      "T": 301,
+      "ears_s": 6.950810962356627,
+      "ears_audio_s": 0.09639277216047049,
+      "ears_motion_s": 6.8544181901961565,
+      "aks_siglip_s": 6.928784964606166
+    },
+    {
+      "video": "Normal_Videos_880_x264.mp4",
+      "T": 401,
+      "ears_s": 8.676106687169522,
+      "ears_audio_s": 1.2582243960350752,
+      "ears_motion_s": 7.417882291134447,
+      "aks_siglip_s": 8.552383775822818
+    },
+    {
+      "video": "Shoplifting010_x264.mp4",
+      "T": 401,
+      "ears_s": 8.811768995132297,
+      "ears_audio_s": 0.04575492208823562,
+      "ears_motion_s": 8.766014073044062,
+      "aks_siglip_s": 8.518068969249725
+    },
+    {
+      "video": "Normal_Videos_175_x264.mp4",
+      "T": 401,
+      "ears_s": 9.474358508363366,
+      "ears_audio_s": 0.599091790150851,
+      "ears_motion_s": 8.875266718212515,
+      "aks_siglip_s": 8.732106117065996
+    },
+    {
+      "video": "Normal_Videos_033_x264.mp4",
+      "T": 337,
+      "ears_s": 7.108230877202004,
+      "ears_audio_s": 0.12491041095927358,
+      "ears_motion_s": 6.983320466242731,
+      "aks_siglip_s": 7.017140951007605
+    },
+    {
+      "video": "Normal_Videos_912_x264.mp4",
+      "T": 150,
+      "ears_s": 3.1634717569686472,
+      "ears_audio_s": 0.04582043504342437,
+      "ears_motion_s": 3.117651321925223,
+      "aks_siglip_s": 3.301750350277871
+    },
+    {
+      "video": "Normal_Videos_048_x264.mp4",
+      "T": 331,
+      "ears_s": 6.512512587942183,
+      "ears_audio_s": 0.12196064693853259,
+      "ears_motion_s": 6.39055194100365,
+      "aks_siglip_s": 6.621582905296236
+    },
+    {
+      "video": "Robbery050_x264.mp4",
+      "T": 341,
+      "ears_s": 6.8943909970112145,
+      "ears_audio_s": 0.09233487630262971,
+      "ears_motion_s": 6.802056120708585,
+      "aks_siglip_s": 7.488328801933676
+    },
+    {
+      "video": "Normal_Videos_885_x264.mp4",
+      "T": 96,
+      "ears_s": 1.7032596883364022,
+      "ears_audio_s": 0.06080864230170846,
+      "ears_motion_s": 1.6424510460346937,
+      "aks_siglip_s": 1.720685369335115
+    }
+  ]
+}

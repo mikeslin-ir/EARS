@@ -1,0 +1,97 @@
+{
+  "total_videos": 440,
+  "table": [
+    {
+      "method": "Uniform",
+      "k": 1,
+      "accuracy": 0.3977272727272727,
+      "precision": 1.0,
+      "recall": 0.08620689655172414,
+      "f1": 0.15873015873015872
+    },
+    {
+      "method": "Uniform",
+      "k": 2,
+      "accuracy": 0.4590909090909091,
+      "precision": 0.9193548387096774,
+      "recall": 0.19655172413793104,
+      "f1": 0.32386363636363635
+    },
+    {
+      "method": "Uniform",
+      "k": 4,
+      "accuracy": 0.5272727272727272,
+      "precision": 0.9183673469387755,
+      "recall": 0.3103448275862069,
+      "f1": 0.4639175257731959
+    },
+    {
+      "method": "Uniform",
+      "k": 6,
+      "accuracy": 0.5409090909090909,
+      "precision": 0.94,
+      "recall": 0.32413793103448274,
+      "f1": 0.48205128205128206
+    },
+    {
+      "method": "Uniform",
+      "k": 8,
+      "accuracy": 0.5431818181818182,
+      "precision": 0.9320388349514563,
+      "recall": 0.3310344827586207,
+      "f1": 0.48854961832061067
+    },
+    {
+      "method": "Uniform",
+      "k": 10,
+      "accuracy": 0.55,
+      "precision": 0.9423076923076923,
+      "recall": 0.33793103448275863,
+      "f1": 0.49746192893401014
+    }
+  ],
+  "per_run": [
+    {
+      "method": "Uniform",
+      "k": 1,
+      "n_videos": 440,
+      "total_frames": 440,
+      "avg_frames_per_video": 1.0
+    },
+    {
+      "method": "Uniform",
+      "k": 2,
+      "n_videos": 440,
+      "total_frames": 880,
+      "avg_frames_per_video": 2.0
+    },
+    {
+      "method": "Uniform",
+      "k": 4,
+      "n_videos": 440,
+      "total_frames": 1760,
+      "avg_frames_per_video": 4.0
+    },
+    {
+      "method": "Uniform",
+      "k": 6,
+      "n_videos": 440,
+      "total_frames": 2640,
+      "avg_frames_per_video": 6.0
+    },
+    {
+      "method": "Uniform",
+      "k": 8,
+      "n_videos": 440,
+      "total_frames": 3520,
+      "avg_frames_per_video": 8.0
+    },
+    {
+      "method": "Uniform",
+      "k": 10,
+      "n_videos": 440,
+      "total_frames": 4400,
+      "avg_frames_per_video": 10.0
+    }
+  ]
+}

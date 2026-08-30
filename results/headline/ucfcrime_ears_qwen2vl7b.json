@@ -1,0 +1,97 @@
+{
+  "total_videos": 440,
+  "table": [
+    {
+      "method": "Event-driven",
+      "k": 1,
+      "accuracy": 0.38181818181818183,
+      "precision": 0.9090909090909091,
+      "recall": 0.06896551724137931,
+      "f1": 0.1282051282051282
+    },
+    {
+      "method": "Event-driven",
+      "k": 2,
+      "accuracy": 0.4318181818181818,
+      "precision": 0.8703703703703703,
+      "recall": 0.16206896551724137,
+      "f1": 0.27325581395348836
+    },
+    {
+      "method": "Event-driven",
+      "k": 4,
+      "accuracy": 0.5022727272727273,
+      "precision": 0.9080459770114943,
+      "recall": 0.27241379310344827,
+      "f1": 0.41909814323607425
+    },
+    {
+      "method": "Event-driven",
+      "k": 6,
+      "accuracy": 0.5159090909090909,
+      "precision": 0.963855421686747,
+      "recall": 0.27586206896551724,
+      "f1": 0.4289544235924933
+    },
+    {
+      "method": "Event-driven",
+      "k": 8,
+      "accuracy": 0.5227272727272727,
+      "precision": 0.9545454545454546,
+      "recall": 0.2896551724137931,
+      "f1": 0.4444444444444444
+    },
+    {
+      "method": "Event-driven",
+      "k": 10,
+      "accuracy": 0.5386363636363637,
+      "precision": 0.9578947368421052,
+      "recall": 0.3137931034482759,
+      "f1": 0.4727272727272727
+    }
+  ],
+  "per_run": [
+    {
+      "method": "Event-driven",
+      "k": 1,
+      "n_videos": 440,
+      "total_frames": 440,
+      "avg_frames_per_video": 1.0
+    },
+    {
+      "method": "Event-driven",
+      "k": 2,
+      "n_videos": 440,
+      "total_frames": 880,
+      "avg_frames_per_video": 2.0
+    },
+    {
+      "method": "Event-driven",
+      "k": 4,
+      "n_videos": 440,
+      "total_frames": 1760,
+      "avg_frames_per_video": 4.0
+    },
+    {
+      "method": "Event-driven",
+      "k": 6,
+      "n_videos": 440,
+      "total_frames": 2640,
+      "avg_frames_per_video": 6.0
+    },
+    {
+      "method": "Event-driven",
+      "k": 8,
+      "n_videos": 440,
+      "total_frames": 3520,
+      "avg_frames_per_video": 8.0
+    },
+    {
+      "method": "Event-driven",
+      "k": 10,
+      "n_videos": 440,
+      "total_frames": 4398,
+      "avg_frames_per_video": 9.995454545454546
+    }
+  ]
+}

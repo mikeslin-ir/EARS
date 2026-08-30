@@ -1,0 +1,12 @@
+{
+  "xd-violence": {
+    "alpha": 1.0,
+    "beta": 1.0,
+    "tau_sec": 0.5
+  },
+  "ucf-crime": {
+    "alpha": 1.0,
+    "beta": 1.0,
+    "tau_sec": 0.5
+  }
+}

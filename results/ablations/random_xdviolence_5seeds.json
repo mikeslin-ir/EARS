@@ -1,0 +1,287 @@
+{
+  "rows": [
+    {
+      "metrics": {
+        "accuracy": 0.7718253968253969,
+        "precision": 0.9320388349514563,
+        "recall": 0.47058823529411764,
+        "f1": 0.6254071661237784
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 504,
+      "avg_frames_per_video": 1.0,
+      "elapsed_sec": 373.2748577594757,
+      "dataset": "xd-violence",
+      "k": 1,
+      "seed": 0,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.7619047619047619,
+        "precision": 0.92,
+        "recall": 0.45098039215686275,
+        "f1": 0.6052631578947368
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 504,
+      "avg_frames_per_video": 1.0,
+      "elapsed_sec": 372.34130477905273,
+      "dataset": "xd-violence",
+      "k": 1,
+      "seed": 1,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.7777777777777778,
+        "precision": 0.9259259259259259,
+        "recall": 0.49019607843137253,
+        "f1": 0.6410256410256411
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 504,
+      "avg_frames_per_video": 1.0,
+      "elapsed_sec": 371.8371069431305,
+      "dataset": "xd-violence",
+      "k": 1,
+      "seed": 2,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.7936507936507936,
+        "precision": 0.9716981132075472,
+        "recall": 0.5049019607843137,
+        "f1": 0.6645161290322581
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 504,
+      "avg_frames_per_video": 1.0,
+      "elapsed_sec": 372.27012729644775,
+      "dataset": "xd-violence",
+      "k": 1,
+      "seed": 3,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.7619047619047619,
+        "precision": 0.9468085106382979,
+        "recall": 0.4362745098039216,
+        "f1": 0.5973154362416108
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 504,
+      "avg_frames_per_video": 1.0,
+      "elapsed_sec": 383.9374349117279,
+      "dataset": "xd-violence",
+      "k": 1,
+      "seed": 4,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8492063492063492,
+        "precision": 0.9507042253521126,
+        "recall": 0.6617647058823529,
+        "f1": 0.7803468208092486
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 1008,
+      "avg_frames_per_video": 2.0,
+      "elapsed_sec": 513.2355382442474,
+      "dataset": "xd-violence",
+      "k": 2,
+      "seed": 0,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8353174603174603,
+        "precision": 0.9548872180451128,
+        "recall": 0.6225490196078431,
+        "f1": 0.7537091988130564
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 1008,
+      "avg_frames_per_video": 2.0,
+      "elapsed_sec": 515.7775893211365,
+      "dataset": "xd-violence",
+      "k": 2,
+      "seed": 1,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8412698412698413,
+        "precision": 0.9428571428571428,
+        "recall": 0.6470588235294118,
+        "f1": 0.7674418604651163
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 1008,
+      "avg_frames_per_video": 2.0,
+      "elapsed_sec": 513.6848378181458,
+      "dataset": "xd-violence",
+      "k": 2,
+      "seed": 2,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8353174603174603,
+        "precision": 0.9548872180451128,
+        "recall": 0.6225490196078431,
+        "f1": 0.7537091988130564
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 1008,
+      "avg_frames_per_video": 2.0,
+      "elapsed_sec": 525.8233196735382,
+      "dataset": "xd-violence",
+      "k": 2,
+      "seed": 3,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8492063492063492,
+        "precision": 0.9444444444444444,
+        "recall": 0.6666666666666666,
+        "f1": 0.7816091954022989
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 1008,
+      "avg_frames_per_video": 2.0,
+      "elapsed_sec": 524.5942385196686,
+      "dataset": "xd-violence",
+      "k": 2,
+      "seed": 4,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8928571428571429,
+        "precision": 0.9120879120879121,
+        "recall": 0.8137254901960784,
+        "f1": 0.8601036269430051
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 2016,
+      "avg_frames_per_video": 4.0,
+      "elapsed_sec": 786.2182650566101,
+      "dataset": "xd-violence",
+      "k": 4,
+      "seed": 0,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8948412698412699,
+        "precision": 0.9364161849710982,
+        "recall": 0.7941176470588235,
+        "f1": 0.8594164456233422
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 2016,
+      "avg_frames_per_video": 4.0,
+      "elapsed_sec": 775.9760944843292,
+      "dataset": "xd-violence",
+      "k": 4,
+      "seed": 1,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.8908730158730159,
+        "precision": 0.9257142857142857,
+        "recall": 0.7941176470588235,
+        "f1": 0.8548812664907651
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 2016,
+      "avg_frames_per_video": 4.0,
+      "elapsed_sec": 659.7577736377716,
+      "dataset": "xd-violence",
+      "k": 4,
+      "seed": 2,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.9007936507936508,
+        "precision": 0.9425287356321839,
+        "recall": 0.803921568627451,
+        "f1": 0.8677248677248677
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 2016,
+      "avg_frames_per_video": 4.0,
+      "elapsed_sec": 671.975670337677,
+      "dataset": "xd-violence",
+      "k": 4,
+      "seed": 3,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    },
+    {
+      "metrics": {
+        "accuracy": 0.9047619047619048,
+        "precision": 0.9431818181818182,
+        "recall": 0.8137254901960784,
+        "f1": 0.8736842105263158
+      },
+      "n_videos": 504,
+      "n_empty": 0,
+      "total_frames": 2016,
+      "avg_frames_per_video": 4.0,
+      "elapsed_sec": 665.6870770454407,
+      "dataset": "xd-violence",
+      "k": 4,
+      "seed": 4,
+      "method": "random",
+      "model": "Qwen/Qwen2-VL-7B-Instruct"
+    }
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "k_list": [
+    1,
+    2,
+    4
+  ],
+  "model": "Qwen/Qwen2-VL-7B-Instruct"
+}
